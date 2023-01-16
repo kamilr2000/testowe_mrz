@@ -3,8 +3,8 @@ Testowe
 
 # Drugi punkt
 
-zapomaniłem 
+zapomaniłem skonstruować styl strony
 
 # trzeci
 
-todo
+todo - uzupełnić braki w danych
