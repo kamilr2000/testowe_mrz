@@ -2,9 +2,10 @@
 Testowe
 
 # Drugi punkt
+Wykresik i essa
 
-zapomaniłem skonstruować styl strony
-UGA BUGA
 # trzeci
+Majtki skarpetki  i ubrania XD
 
+# cztery
 todo - uzupełnić braki w danych
